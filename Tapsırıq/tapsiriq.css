@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: orangered;height: 5000px;
+
+}
+
+.name{
+    color: white;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    text-align: center;      
+}
+
+.name1{
+    margin-top: 20px;
+    margin-left: 47.5%;
+    width: 50px;
+    border: 2px solid white;
+    background-color: white;
+
+}
+
+.name2{
+    color: white;
+    text-align: center; 
+    margin: 0px 20%;
+      
+}
+
+.name3{
+    margin-top: 20px;
+    margin-left: 45%;
+    background-color: white;
+    border-radius: 30px;
+    padding: 15px 20px 15px 20px;
+    border-color: white;
+    transition: transform .2s;
+}
+.name3:hover{
+    transform: scale(1.5);
+}
